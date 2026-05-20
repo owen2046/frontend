@@ -17,7 +17,7 @@ async function parseJsonSafe(res) {
   }
 }
 
-const BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:5000'
+const BASE_URL = import.meta.env.VITE_API_URL || 'https://backend-1wz8.onrender.com'
 
 function normalizeProperty(p) {
   if (!p) return p
