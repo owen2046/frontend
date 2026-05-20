@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /saved
+Disallow: /reset-password
+Sitemap: https://www.estates61.com/sitemap.xml
